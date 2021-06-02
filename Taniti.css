@@ -253,9 +253,7 @@ i{
 .flexbox-item2{
 	
 	
-/*	border-style:solid;
-	border-color:green;
-	*/
+
 	background-color:#e8dbb8;
 	width:100%;
 	
@@ -266,10 +264,7 @@ i{
 
 .flexbox-item-FAQ{
 	
-	
-/*	border-style:solid;
-	border-color:green;
-	*/
+
 	background-color:#e8dbb8;
 	width:60%;
 	
@@ -386,10 +381,7 @@ i{
 }
 .flexbox-item4{
 	cursor:pointer;
-	/*
-	border-style:solid;
-	border-color:green;
-*/
+
 position:relative;
 width:200px;
 height:200px;
@@ -455,7 +447,7 @@ color:#18525A;
 
 .flexbox-item-contact h3, p{
 	
-	font-family:"Calibri", sans-serif;
+	font-family:Calibri, sans-serif;
 
 }
 
@@ -508,7 +500,7 @@ width:70px;
 
 .footermap a{
 	text-align:left;
-	font-family:"Calibri", sans-serif;
+	font-family:Calibri, sans-serif;
 	color:white;
 }
 .footermap a:hover{ 
@@ -543,7 +535,7 @@ width:70px;
 
 text-decoration:none;
 font-size:14px;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	color:#18525A;
 	margin-right:10px;
 	
@@ -561,7 +553,7 @@ font-size:14px;
 .sightseeing_list{
 	
 	float:right;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	margin-right:40px;
 	width:100px;
 	
@@ -579,7 +571,7 @@ font-size:14px;
 	
 	margin-left:-25px;
 	float:left;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 
 	
 	
@@ -611,7 +603,7 @@ font-size:14px;
 	color:#18525A;
 	text-decoration:underline;
 	font-size:18px;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	
 }
 
@@ -699,7 +691,7 @@ margin-bottom:20px;
 	color:white;
 	text-align:left;
 	font-size:18px;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	
 }
 
@@ -718,7 +710,7 @@ margin-bottom:20px;
 	color:#18525A;
 	text-decoration:underline;
 	font-size:18px;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 }
 
 .flexbox-item-sightseeing1 a:hover{
@@ -743,7 +735,7 @@ margin-bottom:20px;
 
 .breadcrumbs a{
 	font-size:12px;
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	color:white;
 
 }
@@ -815,11 +807,11 @@ border-color:white;
 
 
 h2{
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 }
 
 .homeExplore a{
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	font-size:12px;
 	color:black;
 	padding:5px;
@@ -852,7 +844,7 @@ button:hover{
 label{
 
 
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	font-size:14px;
 	
 
@@ -947,7 +939,7 @@ box-shadow:3px 3px 8px;;
 
 
 p{
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	position:relative;
 	
 
@@ -959,7 +951,7 @@ p{
 
 		display:block;
 		float:left;
-		font-family:"Calibri, sans-serif";
+		font-family:Calibri, sans-serif;
 		text-decoration:none;
 		color:white;
 		padding:8px 12px;
@@ -1001,7 +993,7 @@ hr{
 
 #navCollapse a{
 	
-		font-family:"Calibri, sans-serif";
+		font-family:Calibri, sans-serif;
 		text-decoration:none;
 		color:white;
 		overflow:hidden;
@@ -1044,7 +1036,7 @@ hr{
 
 .dropdown-content a{
 	
-		font-family:"Calibri, sans-serif";
+		font-family:Calibri, sans-serif;
 		text-decoration:none;		
 		color:white;
 		
@@ -1079,7 +1071,7 @@ hr{
 
 #rightDiningNav a{
 	
-	font-family:"Calibri, sans-serif";
+	font-family:Calibri, sans-serif;
 	color:#18525A;
 	font-size:12px;
 	margin:10px;
