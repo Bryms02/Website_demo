@@ -1,12 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @font-face {
 	font-family:tropicalFont;
 	src:url("Tropical.ttf");
 	
+  font-family: "Open Sans";
+
+  src: url("OpenSans-Regular.ttf");
+
 
 
 }
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
 
 body{
 	background-color:#18525A;
@@ -31,7 +37,7 @@ position:relative;
 
 header h1{
 	width:100%;
-	font-family:"Tropical", sans-serif;
+	font-family:"Tropical", Open Sans;
 	font-weight:normal;
 	position:absolute;
 	z-index:2000;
@@ -81,7 +87,7 @@ header img{
 		
 	font-size:13px;
 	color:white;
-	font-family:Calibri, sans-serif;
+	font-family:Calibri, Open Sans;
 	text-decoration:none;
 
 	
@@ -455,7 +461,7 @@ color:#18525A;
 
 .flexbox-item-contact h3, p{
 	
-	font-family:"Calibri", sans-serif;
+	font-family:Open Sans, sans-serif;
 
 }
 
@@ -508,7 +514,7 @@ width:70px;
 
 .footermap a{
 	text-align:left;
-	font-family:"Calibri", sans-serif;
+	font-family:Open Sans, sans-serif;
 	color:white;
 }
 .footermap a:hover{ 
@@ -543,7 +549,7 @@ width:70px;
 
 text-decoration:none;
 font-size:14px;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	color:#18525A;
 	margin-right:10px;
 	
@@ -561,7 +567,7 @@ font-size:14px;
 .sightseeing_list{
 	
 	float:right;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	margin-right:40px;
 	width:100px;
 	
@@ -579,7 +585,7 @@ font-size:14px;
 	
 	margin-left:-25px;
 	float:left;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 
 	
 	
@@ -611,7 +617,7 @@ font-size:14px;
 	color:#18525A;
 	text-decoration:underline;
 	font-size:18px;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	
 }
 
@@ -699,7 +705,7 @@ margin-bottom:20px;
 	color:white;
 	text-align:left;
 	font-size:18px;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	
 }
 
@@ -718,7 +724,7 @@ margin-bottom:20px;
 	color:#18525A;
 	text-decoration:underline;
 	font-size:18px;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 }
 
 .flexbox-item-sightseeing1 a:hover{
@@ -743,7 +749,7 @@ margin-bottom:20px;
 
 .breadcrumbs a{
 	font-size:12px;
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	color:white;
 
 }
@@ -783,7 +789,7 @@ border-color:white;
 	display:inline-block;
 	top:20px;
 		padding:10px;
-		width:250px;
+		width:280px;
 	height:200px;
 		margin-right:30px;
 		margin-left:30px;
@@ -816,11 +822,11 @@ border-color:white;
 
 
 h2{
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 }
 
 .homeExplore a{
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	font-size:12px;
 	color:black;
 	padding:5px;
@@ -853,7 +859,7 @@ button:hover{
 label{
 
 
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	font-size:14px;
 	
 
@@ -865,6 +871,12 @@ input{
 
 	margin-right:10px;
 	margin-top:10px;
+}
+
+#sunimage{
+	position:absolute;
+	left:65px;
+	top:7px;
 }
 
 
@@ -948,7 +960,7 @@ box-shadow:3px 3px 8px;;
 
 
 p{
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	position:relative;
 	
 
@@ -960,10 +972,10 @@ p{
 
 		display:block;
 		float:left;
-		font-family:"Calibri";
+		font-family:Open Sans, sans-serif;
 		text-decoration:none;
 		color:white;
-		padding:8px 12px;
+		padding:7px 12px;
 		transition-duration:.5s;
 
 
@@ -1002,7 +1014,7 @@ hr{
 
 #navCollapse a{
 	
-		font-family:"Calibri";
+		font-family:Open Sans, sans-serif;
 		text-decoration:none;
 		color:white;
 		overflow:hidden;
@@ -1046,7 +1058,7 @@ hr{
 
 .dropdown-content a{
 	
-		font-family:"Calibri";
+		font-family:Open Sans, sans-serif;
 		text-decoration:none;		
 		color:white;
 		
@@ -1081,7 +1093,7 @@ hr{
 
 #rightDiningNav a{
 	
-	font-family:"Calibri";
+	font-family:Open Sans, sans-serif;
 	color:#18525A;
 	font-size:12px;
 	margin:10px;
@@ -1134,7 +1146,7 @@ hr{
 		top:20px;
 		right:60px;
 		z-index:1000;
-		
+		font-family:Open Sans;
 		
 	}
 	.welcomeImg{
