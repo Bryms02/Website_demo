@@ -6,7 +6,7 @@
 
 }
 
-
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 body{
 	background-color:#18525A;
@@ -1024,7 +1024,7 @@ hr{
 }
 
 #hamburger{
-	width:50px;
+	
 	padding:15px;
 	background-color:#1B848D;
 	z-index:2000;
