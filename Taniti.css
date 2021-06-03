@@ -1024,6 +1024,7 @@ hr{
 }
 
 #hamburger{
+	width:50px;
 	padding:15px;
 	background-color:#1B848D;
 	z-index:2000;
