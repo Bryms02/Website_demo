@@ -93,12 +93,6 @@ header img{
 	
 }
 
-.spantopright{
-	font-size:13px;
-	color:white;
-	font-family:Calibri, Open Sans;
-	text-decoration:none;
-}
 
 
 .upperRightNav a:hover{
@@ -206,7 +200,7 @@ i{
 #dining-contact{
 	
 	top:-5px;
-	margin-left:25px;
+	margin-left:20px;
 	margin-right:25px;
 	font-size:10px;
 	position:relative;
@@ -476,7 +470,7 @@ color:#18525A;
 .flexbox-item-sightseeing1{
 
 padding-left:30px;
-padding-right:10px;
+padding-right:30px;
 background-color:#F2EBD7;
 position:relative;
 width:450px;
@@ -576,6 +570,8 @@ font-size:14px;
 	font-family:Open Sans, sans-serif;
 	margin-right:40px;
 	width:100px;
+	height:150px;
+	
 	
 }
 
@@ -584,7 +580,7 @@ font-size:14px;
 	
 	padding-bottom:10px;
 	text-align:left;
-	font-size:14px;
+	font-size:12px;
 }
 
 .transportation_list{
@@ -609,7 +605,7 @@ font-size:14px;
 .flexbox-item-sightseeing1 p{
 	
 	text-align:left;
-	font-size:14px;
+	font-size:12px;
 }
 .flexbox-item-sightseeing1 h2{
 	
@@ -644,6 +640,7 @@ width:70%;
 
 margin-bottom:40px;
 margin-top:20px;
+
 
 
 border-radius:5px;
@@ -696,6 +693,7 @@ margin-bottom:20px;
 .flexbox-item-lodging p{
 	
 	font-size:10px;
+
 	
 }
 .flexbox-item-lodging h2{
@@ -881,8 +879,8 @@ input{
 
 #sunimage{
 	position:absolute;
-float:left;
-left:0;
+	left:65px;
+	top:7px;
 }
 
 
@@ -989,6 +987,7 @@ p{
 
 hr{
 	height:2px;
+	
 	border-width:0;
 	color:#18525A;
 	background-color:#18525A;
@@ -1184,6 +1183,11 @@ margin-bottom:-30px;
 
 .flexbox-item{
 	width:100%;
+}
+.sightseeingMainImg{
+	width:300px;
+	height:auto;
+	
 }
 	
 	
