@@ -93,6 +93,12 @@ header img{
 	
 }
 
+.spantopright{
+	font-size:13px;
+	color:white;
+	font-family:Calibri, Open Sans;
+	text-decoration:none;
+}
 
 
 .upperRightNav a:hover{
@@ -875,8 +881,8 @@ input{
 
 #sunimage{
 	position:absolute;
-	left:65px;
-	top:7px;
+float:left;
+left:0;
 }
 
 
